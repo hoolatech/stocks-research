@@ -12,6 +12,8 @@ FB, Twitter, Pinterest, Snapchat
 
 Uber, Lyft
 
+Tesla, Nio
+
 Atlassian, Asana, Slack, Zoom
 
 Workday, Trinet, Okta
