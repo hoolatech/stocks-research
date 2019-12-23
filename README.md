@@ -22,8 +22,11 @@ Zillow, Redfin
 
 BeyondMeat, LuckinCoffee
 
-Bobinhood, Airbnb, Postmate,udemy, Bytedance, glassdoor, Zelle
+EHang
 
-analytics,iot:
+Juniper, Fortinet, Palo Alto Network
 
-splunk,newrellic, datadog, pagerduty
+analytics,iot:   splunk,newrellic, datadog, pagerduty
+
+Next IPO:
+Robinhood, Airbnb, Postmate,udemy, Bytedance, glassdoor, Zelle
